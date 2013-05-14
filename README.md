@@ -8,6 +8,19 @@ What you need
 
 Install [Node.js](http://www.nodejs.org)
 
+Libraries/modules used
+--------------
+
+* [Grunt](http://gruntjs.com): node module
+* [Connect](http://www.senchalabs.org/connect/): node module
+* [requireJs](http://requirejs.org)
+* [coffeeScript](http://coffeescript.org)
+* [mocha](http://visionmedia.github.io/mocha/)
+* [chai](http://chaijs.com)
+* [sinon](http://sinonjs.org)
+* [sinon-chai](https://github.com/domenic/sinon-chai)
+
+
 Setup
 -----
 
