@@ -1,0 +1,19 @@
+{
+    "name": "chili",
+    "description": "",
+    "version": "0.0.1",
+    "private": true,
+    "author": "",
+    "dependencies": {
+    },
+    "devDependencies": {
+        "connect": "latest",
+        "grunt": "latest",
+        "grunt-contrib-requirejs": "latest",
+        "grunt-contrib-uglify": "latest",
+        "grunt-contrib-copy": "latest",
+        "grunt-contrib-watch": "latest",
+        "grunt-contrib-coffee": "latest",
+        "grunt-contrib-clean": "latest"
+    }
+}
