@@ -23,7 +23,7 @@ Libraries/modules used
 * [Connect](http://www.senchalabs.org/connect/): node module
 * [requireJs](http://requirejs.org)
 * [coffeeScript](http://coffeescript.org)
-* [mocha](http://visionmedia.github.io/mocha/)
+* [mocha](http://mochajs.org/)
 * [chai](http://chaijs.com)
 * [sinon](http://sinonjs.org)
 * [sinon-chai](https://github.com/domenic/sinon-chai)
